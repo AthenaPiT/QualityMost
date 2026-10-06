@@ -78,7 +78,7 @@ const config: Config = {
       title: 'QualityMost',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/QualityMost.png',
       },
       items: [
         {
